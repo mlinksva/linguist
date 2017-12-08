@@ -895,3 +895,6 @@
 [submodule "vendor/grammars/JSyntax"]
 	path = vendor/grammars/JSyntax
 	url = https://github.com/tikkanz/JSyntax
+[submodule "vendor/grammars/language-pyret"]
+	path = vendor/grammars/language-pyret
+	url = https://github.com/samuela/language-pyret

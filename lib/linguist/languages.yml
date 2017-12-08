@@ -3584,6 +3584,14 @@ PureScript:
   codemirror_mode: haskell
   codemirror_mime_type: text/x-haskell
   language_id: 302
+Pyret:
+  type: programming
+  extensions:
+  - ".arr"
+  color: "#B34700"
+  tm_scope: source.arr
+  ace_mode: text
+  language_id: 252961827
 Python:
   type: programming
   ace_mode: python

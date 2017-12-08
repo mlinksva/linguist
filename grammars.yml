@@ -455,6 +455,8 @@ vendor/grammars/language-pcb:
 - source.pcb.sexp
 vendor/grammars/language-povray:
 - source.pov-ray sdl
+vendor/grammars/language-pyret:
+- source.arr
 vendor/grammars/language-reason:
 - source.reason
 - source.reason.hover.type
